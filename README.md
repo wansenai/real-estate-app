@@ -1,4 +1,4 @@
-# project_word
+# Word
 
 ## Project setup
 ```
